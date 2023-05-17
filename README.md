@@ -28,5 +28,7 @@ Place the dataset file in the same directory as the Python script.
 Run the script using a Python IDE or command line.
 The script will load and preprocess the dataset, visualize the data, train multiple machine learning models, evaluate their performance, and save the best model.
 The results, including accuracy scores and classification reports, will be displayed in the console.
+
 Description:
+
 This breast cancer classification project utilizes machine learning algorithms to predict the diagnosis of breast cancer cases. By analyzing the provided dataset, the script visualizes the data, trains logistic regression, decision tree, and random forest models, and evaluates their accuracy using a test set. The project helps in identifying breast cancer cases accurately, allowing medical professionals to make informed decisions. The script's modular design allows for easy customization and adaptation to similar classification tasks.
